@@ -1,0 +1,29 @@
+.light-mode {
+  width: 40px;
+  height: 20px;
+  background: white;
+  border-radius: 50px;
+}
+
+.light-mode2 {
+  width: 40px;
+  height: 20px;
+  background: rgb(47, 47, 160);
+  border-radius: 50px;
+}
+
+.dark-mode {
+  width: 20px;
+  height: 20px;
+  background: rgb(47, 47, 160);
+  border-radius: 50%;
+  float: left;
+}
+
+.dark-mode2 {
+  width: 20px;
+  height: 20px;
+  background: white;
+  border-radius: 50%;
+  float: right;
+}
